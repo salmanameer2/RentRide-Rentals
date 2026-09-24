@@ -1,0 +1,6 @@
+{
+  "name": "Rent Rides",
+  "description": "Modern commercial car rental platform with premium fleet browsing, instant search, and seamless booking experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
